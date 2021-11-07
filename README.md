@@ -1,5 +1,5 @@
 # About Timothy Cope (kirbycope)
- * More than 9 years programming and quality assurance experience.
+ * More than 12 years programming and quality assurance experience.
  * Experience in Agency, Enterprise, Government, and Start-up.
  * Support projects with millions of users and billions in transactions.
 
